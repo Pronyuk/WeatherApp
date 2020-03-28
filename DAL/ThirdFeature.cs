@@ -1,4 +1,4 @@
 class ThirdFeature
 {
-    // just empty class
+    // just empty class. Check once more
 }
